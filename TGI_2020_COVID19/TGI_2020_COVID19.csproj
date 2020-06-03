@@ -196,10 +196,15 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\modern-business.css" />
     <Content Include="favicon.ico" />
+    <Content Include="images\01.jpeg" />
+    <Content Include="images\02.jpeg" />
+    <Content Include="images\03.jpeg" />
+    <Content Include="images\banner-coronavirus.png" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="images\asp-net-mvc-1510320630.jpg" />
     <Content Include="images\bootstrap-4.jpg" />
+    <Content Include="images\coronavirus-linha-do-tempo.jpg" />
     <Content Include="images\eduardor_foto.jpg" />
     <Content Include="images\Gear_host_ghlogo.svg" />
     <Content Include="images\Gear_host_ghlogo2.svg" />
@@ -210,6 +215,11 @@
     <Content Include="images\JSON.jpg" />
     <Content Include="images\lucasr_foto.jpg" />
     <Content Include="images\lucass_foto.jpg" />
+    <Content Include="images\marivaldo.jpeg" />
+    <Content Include="images\osvaldo400.jpeg" />
+    <Content Include="images\pagnossim2.jpg" />
+    <Content Include="images\pagnossim400.jpeg" />
+    <Content Include="images\Painel_Grafana.JPG" />
     <Content Include="images\sobre_logo_drummond.jpg" />
     <Content Include="images\visual-studio.jpg" />
     <Content Include="images\VS2019.png" />
